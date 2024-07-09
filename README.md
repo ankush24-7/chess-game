@@ -10,6 +10,6 @@ Flip the Board Feature: Switch perspectives easily with the flip the board featu
 Cross-Platform Compatibility: Play seamlessly across different devices and screen sizes for a consistent user experience.
 
 <h2>Tech Stack</h2>
-HTML
-CSS
-JavaScript
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
